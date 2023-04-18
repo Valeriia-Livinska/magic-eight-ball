@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/magic-eight-ball/static/css/main.7acaea2f.css",
-    "main.js": "/magic-eight-ball/static/js/main.39e29c92.js",
+    "main.css": "/magic-eight-ball/static/css/main.5971de30.css",
+    "main.js": "/magic-eight-ball/static/js/main.71717879.js",
+    "static/media/jasper-benning-Tnk-ksP8Aqs-unsplash.webp": "/magic-eight-ball/static/media/jasper-benning-Tnk-ksP8Aqs-unsplash.d625c2eb3effc8dbf535.webp",
     "index.html": "/magic-eight-ball/index.html",
-    "main.7acaea2f.css.map": "/magic-eight-ball/static/css/main.7acaea2f.css.map",
-    "main.39e29c92.js.map": "/magic-eight-ball/static/js/main.39e29c92.js.map"
+    "main.5971de30.css.map": "/magic-eight-ball/static/css/main.5971de30.css.map",
+    "main.71717879.js.map": "/magic-eight-ball/static/js/main.71717879.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.39e29c92.js"
+    "static/css/main.5971de30.css",
+    "static/js/main.71717879.js"
   ]
 }
